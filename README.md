@@ -1,2 +1,5 @@
 # hello-world
-a test repository
+
+Yo waddup peeps, whats poppin'
+
+Coolathan heree, hope errybody's 'avin a rad timee POG xD
